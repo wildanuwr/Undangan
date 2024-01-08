@@ -277,7 +277,7 @@ const audio = (() => {
             audio = new Audio();
             audio.src = document.getElementById('tombol-musik').getAttribute('data-url');
             audio.load();
-            audio.currentTime = 0;
+            audio.currentTime = 4;
             audio.autoplay = true;
             audio.muted = false;
             audio.loop = true;
