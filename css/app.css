@@ -50,7 +50,9 @@ body::-webkit-scrollbar {
     inset: 0 !important;
     width: 100%;
     height: 100%;
-    background-color: #104266;
+    background-image: url("/assets/images/bglanding.jpg");
+    background-position: center;
+    /* background-color: #104266; */
     z-index: 1056 !important;
 }
 
@@ -110,6 +112,9 @@ body::-webkit-scrollbar {
 
 .dark-section {
     background-color: #1c334b !important;
+    background-image: url("https://www.freepnglogos.com/uploads/border-undangan-png/border-undangan-pin-semerah-padi-art-zeichnungen-fotobooth-schreiben-20.png");
+    background-size: 100%;
+    background-position: top;
     margin-top: -0.5rem;
     margin-bottom: -0.5rem;
 }
