@@ -50,7 +50,7 @@ body::-webkit-scrollbar {
     inset: 0 !important;
     width: 100%;
     height: 100%;
-    background-image: url("/assets/images/bglanding.jpg");
+    background-image: url("https://www.wildanu.my.id/undangan.github-io/assets/images/bglanding.jpg");
     background-position: center;
     /* background-color: #104266; */
     z-index: 1056 !important;
